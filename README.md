@@ -1,1 +1,2 @@
-# android-pzpi-23-6-kavresiev-mykyta
+ПЗПІ-23-6
+Кавресєв Микита
