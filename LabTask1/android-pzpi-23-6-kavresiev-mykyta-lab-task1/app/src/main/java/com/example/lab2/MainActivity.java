@@ -1,4 +1,4 @@
-package com.example.task1;
+package com.example.lab2;
 
 import android.os.Bundle;
 import android.util.Log;
